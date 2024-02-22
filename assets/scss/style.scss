@@ -1,0 +1,11 @@
+@import "./partials/bootstrap-overrides";
+
+nav {
+  i {
+    background-color: $gray-500;
+  }
+}
+
+main {
+  background-color: $purple;
+}
