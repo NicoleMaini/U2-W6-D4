@@ -1,11 +1,22 @@
 @import "./partials/bootstrap-overrides";
 
-nav {
-  i {
-    background-color: $gray-500;
-  }
+.bg-main {
+  background-color: $purple;
 }
 
-main {
-  background-color: $purple;
+.bg-section {
+  background-color: $gray-500;
+}
+
+.card {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.color-rating {
+  color: $yellow;
+}
+
+.color-text {
+  color: $purple;
 }
